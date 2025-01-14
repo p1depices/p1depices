@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Guillaume and I'm a netadmin and sysadmin located in France.</h2>
+<h2 align="left">Hi 👋! My name is Guillaume and I'm a net/sysadmin, located in France.</h2>
 
 ###
 
